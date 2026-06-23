@@ -2,5 +2,5 @@
 # My First Python File on GitHub
 
 name = "Karthik"
-print(f"Hello, {name}! Welcome to AI Foundation.")
+print(f"Hello! Welcome to AI Foundation.")
 print("This is my first GitHub commit.")
