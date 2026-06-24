@@ -7,9 +7,9 @@ A collection of 4 hands-on AI projects built as part of the AI Foundation for En
 1. Done - GitHub Account & First Commit
 2. Done - Hugging Face Model Card Analysis - NVIDIA LocateAnything3B
 3. Done - E-Profile Website [Portfolio]
-   Live: https://jkarthikraj2007.github.io/R25EJ045_AFE_Projects/
+   Live: [Open Portfolio Website](https://jkarthikraj2007.github.io/R25EJ045_AFE_Projects/)
 4. Done - Live News Website
-   Live: https://jkarthikraj2007.github.io/R25EJ045_AFE_Projects/project4-news-website/
+   Live: [Open News Website](https://jkarthikraj2007.github.io/R25EJ045_AFE_Projects/project4-news-website/)
 
 ## Author
 
