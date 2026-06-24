@@ -5,7 +5,7 @@ AI Foundation for Engineers course.
 
 ## Projects
 1. ✅ GitHub Account & First Commit
-2. 🔄 Hugging Face Model Card Analysis
+2. ✅ Hugging Face Model Card Analysis - NVIDIA LocateAnything3B
 3. 🔄 E-Profile Website
 4. 🔄 Live Website
 5. 🔄 AI News Agent → WhatsApp
